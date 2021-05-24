@@ -1,0 +1,36 @@
+   .container{
+        width: 100%;
+        text-align: left;
+        margin-top: 20px;
+       
+    }
+		a{
+			text-decoration: none;
+			color: blue;
+			font-size: 30px;
+		}
+        table{
+        border: 2px  solid saddlebrown;
+        text-align: center;
+        margin-left: 10px;
+
+    }
+    td,th{
+      border: 1px solid black;
+      text-align: center;
+    }
+    a{
+      text-decoration: none;
+      color: yellow;
+    }
+    button{
+    	background-color: black;
+    	color: white;
+    	width: 120px;
+    	height:50px;
+    	border: none;
+    	margin-right: 500px;
+    	position: absolute;
+    	left: 0;
+    	margin-top: 10px;
+    }
